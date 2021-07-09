@@ -1,0 +1,21 @@
+.main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.nav {
+  grid-column: 2;
+  height: 650px;
+  position: absolute;
+  right: 0;
+  margin-right: 20px;
+  top: 10rem;
+  border: 0.5px solid #333;
+}
+
+.content {
+  grid-column: 1;
+  max-width: 100%;
+  width: 100vh;
+  height: 100vh;
+}

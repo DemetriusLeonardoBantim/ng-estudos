@@ -1,0 +1,11 @@
+.main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.nav {
+  grid-column: 2;
+  position: absolute;
+  right: 0;
+  top: 10rem;
+}

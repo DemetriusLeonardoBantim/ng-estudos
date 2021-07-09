@@ -1,0 +1,22 @@
+.container {
+  margin-top: 25%;
+  box-sizing: border-box;
+}
+
+.card {
+  height: 4rem;
+  margin-top: 10px;
+}
+
+h5 {
+  text-align: start;
+}
+
+.header h1 {
+  margin-left: 10px;
+  font-size: 1.5rem;
+}
+
+.title {
+  text-align: center;
+}
